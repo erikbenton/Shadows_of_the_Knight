@@ -16,7 +16,14 @@ while True:
 
     # Write an action using print
     # To debug: print("Debug messages...", file=sys.stderr)
-
+    if bomb_dir == "U":
+    elif bomb_dir == "UR":
+    elif bomb_dir == "R":
+    elif bomb_dir == "DR":
+    elif bomb_dir == "D":
+    elif bomb_dir == "DL":
+    elif bomb_dir == "L":
+    elif bomb_dir == "UL":
 
     # the location of the next window Batman should jump to.
     print("0 0")
